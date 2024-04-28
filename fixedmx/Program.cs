@@ -45,7 +45,8 @@ namespace fixedmx
             TransformMSL(MSLNamespace, msl, transformation);
             TransformDesigner(DesignerNamespace, designerDiagram, transformation);
 
-            using (XmlTextWriter writer = new XmlTextWriter(outputFile, Encoding.Default))
+            XmlWriterSettings settings = new XmlWriterSettings { Indent = true };
+            using (XmlWriter writer = XmlWriter.Create(outputFile, settings))
             {
                 xdoc.WriteTo(writer);
             }
