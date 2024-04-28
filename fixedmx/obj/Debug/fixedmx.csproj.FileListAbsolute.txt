@@ -1,6 +1,0 @@
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\bin\Debug\fixedmx.exe.config
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\bin\Debug\fixedmx.exe
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\bin\Debug\fixedmx.pdb
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\obj\Debug\fixedmx.csprojResolveAssemblyReference.cache
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\obj\Debug\fixedmx.exe
-c:\users\andrew\documents\visual studio 2015\Projects\fixedmx\fixedmx\obj\Debug\fixedmx.pdb
